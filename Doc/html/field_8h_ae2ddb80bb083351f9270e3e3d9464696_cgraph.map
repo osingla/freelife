@@ -1,0 +1,15 @@
+<map id="create_field" name="create_field">
+<area shape="rect" id="node2" href="$zoom_8c.html#a7e915b8f378ec5c9cf819b7d8e826259" title="close_app" alt="" coords="185,5,266,32"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a493ec9a990f9efd09ee53ab42d188f4c" title="create_color" alt="" coords="179,56,272,83"/>
+<area shape="rect" id="node4" href="$field_8c.html#afd5212c351b3140ffef0c30db3451f79" title="on_field_configure\l_event" alt="" coords="162,107,289,149"/>
+<area shape="rect" id="node5" href="$field_8c.html#aca8887cf670d3bf8429d66176632ebb8" title="on_fielddraw_button\l_press_event" alt="" coords="156,173,295,214"/>
+<area shape="rect" id="node6" href="$field_8c.html#abff7fd48f2a1732777f231e4c9168b0c" title="on_fielddraw_button\l_release_event" alt="" coords="156,238,295,279"/>
+<area shape="rect" id="node7" href="$field_8c.html#a218c52014e2c1b8e387a3b6de1d943f2" title="on_fielddraw_configure\l_event" alt="" coords="148,303,303,345"/>
+<area shape="rect" id="node8" href="$field_8c.html#aaccf3f31a156bbdc4b1ca1c9f285342d" title="on_fielddraw_expose\l_event" alt="" coords="153,369,297,410"/>
+<area shape="rect" id="node12" href="$field_8c.html#ac879e97cd4b849a3ba20539210c8b9d5" title="on_fielddraw_key_press\l_event" alt="" coords="144,434,307,475"/>
+<area shape="rect" id="node13" href="$field_8c.html#ac8c4cb3b282056d6536a81d17c98a576" title="on_fielddraw_motion\l_notify_event" alt="" coords="155,499,296,541"/>
+<area shape="rect" id="node14" href="$field_8c.html#a4c5e0739e06b0b1f05450c54e55779be" title="on_stop_clicked" alt="" coords="167,565,283,592"/>
+<area shape="rect" id="node9" href="$field_8c.html#af5e0fd75ee8830a10dd0284699c277bb" title="redraw_pixmap_field" alt="" coords="355,376,496,403"/>
+<area shape="rect" id="node10" href="$field_8c.html#af3396dd13cf3b77ac1805840784b030f" title="create_hand_field" alt="" coords="545,376,669,403"/>
+<area shape="rect" id="node11" href="$zoom_8c.html#a9ac20be4dd590dd4447fdee2015dea62" title="get_zoom_infos" alt="" coords="717,376,832,403"/>
+</map>

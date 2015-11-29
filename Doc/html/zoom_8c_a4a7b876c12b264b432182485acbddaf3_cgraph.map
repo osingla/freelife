@@ -1,0 +1,8 @@
+<map id="on_LifeRandomGen_activate" name="on_LifeRandomGen_activate">
+<area shape="rect" id="node2" href="$zoom_8c.html#af91a6e62b61813849c155115ca1992fe" title="build_random_population" alt="" coords="245,31,411,57"/>
+<area shape="rect" id="node3" href="$main_8c.html#aab02a606ca6c3871f5825758b5f840bb" title="clear_life" alt="" coords="459,31,533,57"/>
+<area shape="rect" id="node4" href="$zoom_8c.html#aadcc1a2e33a7f8fa725e5ebadfa5f910" title="center_zoom" alt="" coords="582,5,679,32"/>
+<area shape="rect" id="node6" href="$life_8c.html#a665a2a7fdbed0c1f7552d30485e161fc" title="show_infos" alt="" coords="587,56,675,83"/>
+<area shape="rect" id="node5" href="$zoom_8c.html#a9ac20be4dd590dd4447fdee2015dea62" title="get_zoom_infos" alt="" coords="728,5,843,32"/>
+<area shape="rect" id="node7" href="$life_8c.html#ad89719d2d188ba9c3f92399918645b4a" title="show_life_pop" alt="" coords="733,56,838,83"/>
+</map>

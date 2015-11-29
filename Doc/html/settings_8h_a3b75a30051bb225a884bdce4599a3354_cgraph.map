@@ -1,0 +1,9 @@
+<map id="create_settings" name="create_settings">
+<area shape="rect" id="node2" href="$settings_8c.html#a29de56b176cde7c251848a5e864cb786" title="on_settings_cancel\l_clicked" alt="" coords="191,5,326,46"/>
+<area shape="rect" id="node3" href="$settings_8c.html#a9b07c4140f6b0df90fd17739349851eb" title="on_settings_life_height\l_event" alt="" coords="181,70,336,111"/>
+<area shape="rect" id="node4" href="$settings_8c.html#a7d0ae45d0dd8df36c26cfd1e38a54e53" title="on_settings_life_lifesavednb\l_event" alt="" coords="165,135,352,177"/>
+<area shape="rect" id="node5" href="$settings_8c.html#ac1bf938e65f517084dceb8368f0ac3f0" title="on_settings_life_width\l_event" alt="" coords="183,201,334,242"/>
+<area shape="rect" id="node6" href="$settings_8c.html#a353664f2eaef069c4f41da0e7a084065" title="on_settings_ok_clicked" alt="" coords="179,267,338,293"/>
+<area shape="rect" id="node7" href="$utils_8c.html#a959792e95ccaa2924a6754ee9080e36d" title="set_notebook_tab" alt="" coords="196,317,321,344"/>
+<area shape="rect" id="node8" href="$settings_8c.html#ab69cad2d4c5c1a3b2c43ae45d0ac7f69" title="write_config_to_dialog" alt="" coords="183,368,334,395"/>
+</map>

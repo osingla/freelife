@@ -1,0 +1,13 @@
+<map id="on_FilePrevGen_activate" name="on_FilePrevGen_activate">
+<area shape="rect" id="node2" href="$life_8c.html#a951a86514ba3ac017ca9a345d1f27c00" title="restore_prev_gen" alt="" coords="221,157,344,184"/>
+<area shape="rect" id="node3" href="$field_8c.html#af5e0fd75ee8830a10dd0284699c277bb" title="redraw_pixmap_field" alt="" coords="396,56,537,83"/>
+<area shape="rect" id="node6" href="$zoom_8c.html#a8149105600f2cde995698c163fecf57f" title="redraw_pixmap_zoom" alt="" coords="392,157,541,184"/>
+<area shape="rect" id="node11" href="$life_8c.html#a665a2a7fdbed0c1f7552d30485e161fc" title="show_infos" alt="" coords="423,259,511,285"/>
+<area shape="rect" id="node4" href="$field_8c.html#af3396dd13cf3b77ac1805840784b030f" title="create_hand_field" alt="" coords="597,5,721,32"/>
+<area shape="rect" id="node5" href="$zoom_8c.html#a9ac20be4dd590dd4447fdee2015dea62" title="get_zoom_infos" alt="" coords="776,31,891,57"/>
+<area shape="rect" id="node7" href="$utils_8c.html#a5602e9c6b2da7a1db11ed8a76d19fde3" title="now" alt="" coords="635,107,682,133"/>
+<area shape="rect" id="node8" href="$zoom_8c.html#ab61e867bf27dfbf4f28243c3e55434d2" title="is_grid" alt="" coords="629,157,689,184"/>
+<area shape="rect" id="node9" href="$zoom_8c.html#aa6ac0dce9e05f2267f589e101d2f1d79" title="draw_zoom_cell_on" alt="" coords="590,208,727,235"/>
+<area shape="rect" id="node10" href="$zoom_8c.html#a4b4a798ec7fcd3c3ff2784690fbbf8b0" title="draw_zoom_cell_off" alt="" coords="589,259,728,285"/>
+<area shape="rect" id="node12" href="$life_8c.html#ad89719d2d188ba9c3f92399918645b4a" title="show_life_pop" alt="" coords="606,309,711,336"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="compute_generations" name="compute_generations">
+<area shape="rect" id="node2" href="$life_8c.html#a9e7349796da092a04b4e94958ae89f67" title="compute_gen" alt="" coords="201,56,301,83"/>
+<area shape="rect" id="node3" href="$life_8c.html#ae08c057ec2e29bec962167b04b94f20b" title="field_to_use" alt="" coords="361,5,453,32"/>
+<area shape="rect" id="node4" href="$life_8c.html#a665a2a7fdbed0c1f7552d30485e161fc" title="show_infos" alt="" coords="363,56,451,83"/>
+<area shape="rect" id="node6" href="$life_8c.html#ad2e6f7aad88efd1e757aab049a9a1e91" title="test_gen_stable" alt="" coords="349,107,464,133"/>
+<area shape="rect" id="node5" href="$life_8c.html#ad89719d2d188ba9c3f92399918645b4a" title="show_life_pop" alt="" coords="513,56,618,83"/>
+</map>

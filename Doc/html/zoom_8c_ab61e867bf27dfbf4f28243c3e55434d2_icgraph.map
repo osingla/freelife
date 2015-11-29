@@ -1,0 +1,10 @@
+<map id="is_grid" name="is_grid">
+<area shape="rect" id="node2" href="$zoom_8h.html#a8149105600f2cde995698c163fecf57f" title="redraw_pixmap_zoom" alt="" coords="115,64,264,91"/>
+<area shape="rect" id="node3" href="$life_8h.html#a951a86514ba3ac017ca9a345d1f27c00" title="restore_prev_gen" alt="" coords="312,9,435,36"/>
+<area shape="rect" id="node7" href="$life_8h.html#ae9e0d5e3536eea6ac0b87578777619c5" title="restore_gen0" alt="" coords="325,64,422,91"/>
+<area shape="rect" id="node9" href="$zoom_8c.html#af591d24ff87be8204310b1668989182f" title="on_zoom_area_expose\l_event" alt="" coords="494,122,650,163"/>
+<area shape="rect" id="node4" href="$zoom_8h.html#abe787b68e1a698917152cd1399c81e7a" title="on_FilePrevGen_activate" alt="" coords="488,5,656,32"/>
+<area shape="rect" id="node5" href="$zoom_8h.html#a49ed3bb23aeee2884ae0a6db8edeea98" title="create_zoom" alt="" coords="710,64,807,91"/>
+<area shape="rect" id="node6" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="856,64,907,91"/>
+<area shape="rect" id="node8" href="$zoom_8h.html#aab79f7d3919e1ae61708407142a5db79" title="on_LifeRestoreStartingGen\l_activate" alt="" coords="483,57,661,98"/>
+</map>

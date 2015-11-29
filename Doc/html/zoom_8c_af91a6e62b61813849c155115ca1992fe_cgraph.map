@@ -1,0 +1,7 @@
+<map id="build_random_population" name="build_random_population">
+<area shape="rect" id="node2" href="$main_8c.html#aab02a606ca6c3871f5825758b5f840bb" title="clear_life" alt="" coords="219,31,293,57"/>
+<area shape="rect" id="node3" href="$zoom_8c.html#aadcc1a2e33a7f8fa725e5ebadfa5f910" title="center_zoom" alt="" coords="342,5,439,32"/>
+<area shape="rect" id="node5" href="$life_8c.html#a665a2a7fdbed0c1f7552d30485e161fc" title="show_infos" alt="" coords="347,56,435,83"/>
+<area shape="rect" id="node4" href="$zoom_8c.html#a9ac20be4dd590dd4447fdee2015dea62" title="get_zoom_infos" alt="" coords="488,5,603,32"/>
+<area shape="rect" id="node6" href="$life_8c.html#ad89719d2d188ba9c3f92399918645b4a" title="show_life_pop" alt="" coords="493,56,598,83"/>
+</map>

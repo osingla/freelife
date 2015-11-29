@@ -1,0 +1,6 @@
+<map id="compute_gen" name="compute_gen">
+<area shape="rect" id="node2" href="$life_8c.html#ae08c057ec2e29bec962167b04b94f20b" title="field_to_use" alt="" coords="166,5,258,32"/>
+<area shape="rect" id="node3" href="$life_8c.html#a665a2a7fdbed0c1f7552d30485e161fc" title="show_infos" alt="" coords="168,56,256,83"/>
+<area shape="rect" id="node5" href="$life_8c.html#ad2e6f7aad88efd1e757aab049a9a1e91" title="test_gen_stable" alt="" coords="155,107,269,133"/>
+<area shape="rect" id="node4" href="$life_8c.html#ad89719d2d188ba9c3f92399918645b4a" title="show_life_pop" alt="" coords="318,56,423,83"/>
+</map>

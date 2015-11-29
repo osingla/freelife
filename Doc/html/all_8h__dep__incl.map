@@ -1,0 +1,8 @@
+<map id="all.h" name="all.h">
+<area shape="rect" id="node2" href="$field_8c.html" title="field.c" alt="" coords="5,80,61,107"/>
+<area shape="rect" id="node3" href="$life_8c.html" title="life.c" alt="" coords="87,80,137,107"/>
+<area shape="rect" id="node4" href="$main_8c.html" title="main.c" alt="" coords="161,80,223,107"/>
+<area shape="rect" id="node5" href="$settings_8c.html" title="settings.c" alt="" coords="247,80,325,107"/>
+<area shape="rect" id="node6" href="$utils_8c.html" title="utils.c" alt="" coords="350,80,407,107"/>
+<area shape="rect" id="node7" href="$zoom_8c.html" title="zoom.c" alt="" coords="431,80,496,107"/>
+</map>

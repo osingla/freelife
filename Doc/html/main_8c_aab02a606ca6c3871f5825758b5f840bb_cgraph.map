@@ -1,0 +1,6 @@
+<map id="clear_life" name="clear_life">
+<area shape="rect" id="node2" href="$zoom_8c.html#aadcc1a2e33a7f8fa725e5ebadfa5f910" title="center_zoom" alt="" coords="129,5,226,32"/>
+<area shape="rect" id="node4" href="$life_8c.html#a665a2a7fdbed0c1f7552d30485e161fc" title="show_infos" alt="" coords="133,56,221,83"/>
+<area shape="rect" id="node3" href="$zoom_8c.html#a9ac20be4dd590dd4447fdee2015dea62" title="get_zoom_infos" alt="" coords="275,5,389,32"/>
+<area shape="rect" id="node5" href="$life_8c.html#ad89719d2d188ba9c3f92399918645b4a" title="show_life_pop" alt="" coords="279,56,385,83"/>
+</map>

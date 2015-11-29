@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['label_5fstable',['label_stable',['../vars__glo_8h.html#ab57e55d84f664dfdd7b98812b4771542',1,'vars_glo.h']]],
+  ['life_2ec',['life.c',['../life_8c.html',1,'']]],
+  ['life_2eh',['life.h',['../life_8h.html',1,'']]],
+  ['life_5fbirth',['life_birth',['../vars__glo_8h.html#ae11ddcfd445041631bbe53ca34811a3a',1,'vars_glo.h']]],
+  ['life_5fbpl',['life_bpl',['../vars__glo_8h.html#ac378246f619a88b07262661179cfd1d8',1,'vars_glo.h']]],
+  ['life_5fdeath',['life_death',['../vars__glo_8h.html#a2e08f0ad547b099b67c7c9b252ca753a',1,'vars_glo.h']]],
+  ['life_5fgen',['life_gen',['../vars__glo_8h.html#a556262add4569cb15098516f3ab59220',1,'vars_glo.h']]],
+  ['life_5fheight',['life_height',['../structCONFIG.html#a60b6cba8bb5689d1b60f9b158078f79a',1,'CONFIG']]],
+  ['life_5fpop',['life_pop',['../vars__glo_8h.html#a8fe60fb62d0b5fcc3a9a07308276293f',1,'vars_glo.h']]],
+  ['life_5fsize',['life_size',['../vars__glo_8h.html#a5cc99557f7ea1d4d78e77df0ba68fb6a',1,'vars_glo.h']]],
+  ['life_5fstable',['life_stable',['../vars__glo_8h.html#a5b69764b60431b29eeed9246a08b2ffb',1,'vars_glo.h']]],
+  ['life_5fwidth',['life_width',['../structCONFIG.html#a554f95ed35d673c45d8ae8ff8c6ba236',1,'CONFIG']]],
+  ['lifecentergeneration',['LifeCenterGeneration',['../zoom_8c.html#aa4d345bff0427fedcd06ef43bed4800d',1,'zoom.c']]],
+  ['lifenextgen',['LifeNextGen',['../zoom_8c.html#af404ead85def81ccc13c283da5f54034',1,'zoom.c']]],
+  ['lifenextgens',['LifeNextGens',['../zoom_8c.html#aadc00ad1ea2d3bbeb110843eccf8af4b',1,'zoom.c']]],
+  ['lifeprevgen',['LifePrevGen',['../zoom_8c.html#ae366ba493ce5c54ce90a346070b3fe5a',1,'zoom.c']]],
+  ['liferestorestartinggen',['LifeRestoreStartingGen',['../zoom_8c.html#abcb48cbb671865ca67efb67db8837cd2',1,'zoom.c']]],
+  ['lifesavednb',['lifesavednb',['../structCONFIG.html#ae6f55fa2e051ea68e37c40ac3c768ebe',1,'CONFIG']]],
+  ['lrules',['LRULES',['../structLRULES.html',1,'']]]
+];

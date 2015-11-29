@@ -1,0 +1,5 @@
+<map id="on_fielddraw_expose_event" name="on_fielddraw_expose_event">
+<area shape="rect" id="node2" href="$field_8c.html#af5e0fd75ee8830a10dd0284699c277bb" title="redraw_pixmap_field" alt="" coords="197,12,339,39"/>
+<area shape="rect" id="node3" href="$field_8c.html#af3396dd13cf3b77ac1805840784b030f" title="create_hand_field" alt="" coords="387,12,511,39"/>
+<area shape="rect" id="node4" href="$zoom_8c.html#a9ac20be4dd590dd4447fdee2015dea62" title="get_zoom_infos" alt="" coords="560,12,675,39"/>
+</map>

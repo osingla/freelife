@@ -1,0 +1,12 @@
+<map id="on_LifeSeekInterGen_activate" name="on_LifeSeekInterGen_activate">
+<area shape="rect" id="node2" href="$zoom_8c.html#af91a6e62b61813849c155115ca1992fe" title="build_random_population" alt="" coords="197,56,363,83"/>
+<area shape="rect" id="node8" href="$life_8c.html#a4236a46c6d8a9e260375d8698392188e" title="compute_generations" alt="" coords="207,107,353,133"/>
+<area shape="rect" id="node3" href="$main_8c.html#aab02a606ca6c3871f5825758b5f840bb" title="clear_life" alt="" coords="424,56,499,83"/>
+<area shape="rect" id="node4" href="$zoom_8c.html#aadcc1a2e33a7f8fa725e5ebadfa5f910" title="center_zoom" alt="" coords="569,5,666,32"/>
+<area shape="rect" id="node6" href="$life_8c.html#a665a2a7fdbed0c1f7552d30485e161fc" title="show_infos" alt="" coords="573,56,661,83"/>
+<area shape="rect" id="node5" href="$zoom_8c.html#a9ac20be4dd590dd4447fdee2015dea62" title="get_zoom_infos" alt="" coords="723,5,837,32"/>
+<area shape="rect" id="node7" href="$life_8c.html#ad89719d2d188ba9c3f92399918645b4a" title="show_life_pop" alt="" coords="727,56,833,83"/>
+<area shape="rect" id="node9" href="$life_8c.html#a9e7349796da092a04b4e94958ae89f67" title="compute_gen" alt="" coords="411,107,511,133"/>
+<area shape="rect" id="node10" href="$life_8c.html#ae08c057ec2e29bec962167b04b94f20b" title="field_to_use" alt="" coords="571,107,663,133"/>
+<area shape="rect" id="node11" href="$life_8c.html#ad2e6f7aad88efd1e757aab049a9a1e91" title="test_gen_stable" alt="" coords="560,157,675,184"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="field_to_use" name="field_to_use">
+<area shape="rect" id="node2" href="$life_8h.html#a9e7349796da092a04b4e94958ae89f67" title="compute_gen" alt="" coords="147,92,247,119"/>
+<area shape="rect" id="node3" href="$life_8h.html#a4236a46c6d8a9e260375d8698392188e" title="compute_generations" alt="" coords="308,64,455,91"/>
+<area shape="rect" id="node8" href="$zoom_8h.html#a55629c6e25735d2bce912c6624ab26fc" title="on_LifeNextGen_activate" alt="" coords="297,119,466,145"/>
+<area shape="rect" id="node4" href="$zoom_8h.html#abdb68e7056fe152f9519793bec06b5d2" title="on_FileNextGens_activate" alt="" coords="515,5,691,32"/>
+<area shape="rect" id="node7" href="$zoom_8h.html#aef59041ab46479ece5dc4283d30d2222" title="on_LifeSeekInterGen\l_activate" alt="" coords="531,57,675,98"/>
+<area shape="rect" id="node5" href="$zoom_8h.html#a49ed3bb23aeee2884ae0a6db8edeea98" title="create_zoom" alt="" coords="739,64,837,91"/>
+<area shape="rect" id="node6" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="885,64,936,91"/>
+</map>

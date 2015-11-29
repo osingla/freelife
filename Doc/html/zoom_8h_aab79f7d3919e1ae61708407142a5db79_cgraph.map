@@ -1,0 +1,13 @@
+<map id="on_LifeRestoreStartingGen_activate" name="on_LifeRestoreStartingGen_activate">
+<area shape="rect" id="node2" href="$life_8c.html#ae9e0d5e3536eea6ac0b87578777619c5" title="restore_gen0" alt="" coords="233,157,330,184"/>
+<area shape="rect" id="node3" href="$field_8c.html#af5e0fd75ee8830a10dd0284699c277bb" title="redraw_pixmap_field" alt="" coords="383,56,524,83"/>
+<area shape="rect" id="node6" href="$zoom_8c.html#a8149105600f2cde995698c163fecf57f" title="redraw_pixmap_zoom" alt="" coords="379,157,528,184"/>
+<area shape="rect" id="node11" href="$life_8c.html#a665a2a7fdbed0c1f7552d30485e161fc" title="show_infos" alt="" coords="409,259,497,285"/>
+<area shape="rect" id="node4" href="$field_8c.html#af3396dd13cf3b77ac1805840784b030f" title="create_hand_field" alt="" coords="583,5,707,32"/>
+<area shape="rect" id="node5" href="$zoom_8c.html#a9ac20be4dd590dd4447fdee2015dea62" title="get_zoom_infos" alt="" coords="763,31,877,57"/>
+<area shape="rect" id="node7" href="$zoom_8c.html#a4b4a798ec7fcd3c3ff2784690fbbf8b0" title="draw_zoom_cell_off" alt="" coords="576,107,715,133"/>
+<area shape="rect" id="node8" href="$zoom_8c.html#aa6ac0dce9e05f2267f589e101d2f1d79" title="draw_zoom_cell_on" alt="" coords="577,157,714,184"/>
+<area shape="rect" id="node9" href="$zoom_8c.html#ab61e867bf27dfbf4f28243c3e55434d2" title="is_grid" alt="" coords="615,208,675,235"/>
+<area shape="rect" id="node10" href="$utils_8c.html#a5602e9c6b2da7a1db11ed8a76d19fde3" title="now" alt="" coords="622,259,669,285"/>
+<area shape="rect" id="node12" href="$life_8c.html#ad89719d2d188ba9c3f92399918645b4a" title="show_life_pop" alt="" coords="593,309,698,336"/>
+</map>
